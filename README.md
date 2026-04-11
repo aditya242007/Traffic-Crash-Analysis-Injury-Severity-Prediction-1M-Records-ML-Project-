@@ -110,9 +110,9 @@ Human driving behavior plays a **major role in accidents**
 
 | Metric      | Test Set | Synthetic Set |
 | ----------- | -------- | ------------- |
-| Accuracy    | 89.1%    | 88.9%         |
-| Weighted F1 | 0.90     | 0.86          |
-| Macro F1    | 0.54     | 0.36          |
+| Accuracy    | 87.72%   | 88.86%        |
+| Weighted F1 | 0.84     | 0.86          |
+| Macro F1    | 0.32     | 0.36          |
 
 ---
 
@@ -165,19 +165,6 @@ Despite high accuracy:
 
 ---
 
-## 📁 Project Structure
-
-```
-├── data/
-├── notebooks/
-├── outputs/
-│   ├── visualizations/
-│   ├── model_results/
-├── README.md
-```
-
----
-
 ## 💡 Key Takeaways
 
 * Traffic crashes are **more about human behavior than environment**
@@ -203,3 +190,5 @@ This project is not just about predicting crashes —
 it's about understanding **risk, safety, and decision-making in real-world systems**.
 
 ---
+Author: Aditya Kalure
+Passionate about Data Science, Machine Learning, and solving real-world problems through data.
